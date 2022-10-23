@@ -1,0 +1,210 @@
+.colorPalette {
+  display: flex;
+}
+
+.colorPalWrapper1 {
+  border: solid rgb(10, 10, 10, 0.2) 0.1px;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  display: flex;
+  margin: 5px;
+}
+
+.colorPalWrapper1:hover {
+  transform: scale(1.11);
+  border: solid rgb(10, 10, 10) 0.2px;
+}
+
+.colorPal1 {
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  justify-content: center;
+  margin: 5px;
+  background-color: rgb(203, 130, 159);
+}
+
+.colorPalWrapper2 {
+  border: solid rgb(10, 10, 10, 0.2) 0.1px;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  display: flex;
+  margin: 5px;
+}
+
+.colorPalWrapper2:hover {
+  transform: scale(1.11);
+  border: solid rgb(10, 10, 10) 0.2px;
+}
+
+.colorPal2 {
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  justify-content: center;
+  margin: 5px;
+  background-color: rgb(79, 13, 13);
+}
+
+.colorPalWrapper3 {
+  border: solid rgb(10, 10, 10, 0.2) 0.1px;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  display: flex;
+  margin: 5px;
+}
+
+.colorPalWrapper3:hover {
+  transform: scale(1.11);
+  border: solid rgb(10, 10, 10) 0.2px;
+}
+
+.colorPal3 {
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  justify-content: center;
+  margin: 5px;
+  background-color: rgb(221, 156, 182);
+}
+
+.colorPalWrapper4 {
+  border: solid rgb(10, 10, 10, 0.2) 0.1px;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  display: flex;
+  margin: 5px;
+}
+
+.colorPalWrapper4:hover {
+  transform: scale(1.11);
+  border: solid rgb(10, 10, 10) 0.2px;
+}
+
+.colorPal3 {
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  justify-content: center;
+  margin: 5px;
+  background-color: rgb(120, 119, 116);
+}
+
+.colorPalWrapper4 {
+  border: solid rgb(10, 10, 10, 0.2) 0.1px;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  display: flex;
+  margin: 5px;
+}
+
+.colorPalWrapper4:hover {
+  transform: scale(1.11);
+  border: solid rgb(10, 10, 10) 0.2px;
+}
+
+.colorPal4 {
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  justify-content: center;
+  margin: 5px;
+  background-color: rgb(115, 180, 237);
+}
+
+.colorPalWrapper5 {
+  border: solid rgb(10, 10, 10, 0.2) 0.1px;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  display: flex;
+  margin: 5px;
+}
+
+.colorPalWrapper5:hover {
+  transform: scale(1.11);
+  border: solid rgb(10, 10, 10) 0.2px;
+}
+
+.colorPal5 {
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  justify-content: center;
+  margin: 5px;
+  background-color: rgb(94, 234, 236);
+}
+
+.colorPalWrapper6 {
+  border: solid rgb(10, 10, 10, 0.2) 0.1px;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  display: flex;
+  margin: 5px;
+}
+
+.colorPalWrapper6:hover {
+  transform: scale(1.11);
+  border: solid rgb(10, 10, 10) 0.2px;
+}
+
+.colorPal6 {
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  justify-content: center;
+  margin: 5px;
+  background-color: rgb(114, 94, 31);
+}
+
+.colorPalWrapper7 {
+  border: solid rgb(10, 10, 10, 0.2) 0.1px;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  display: flex;
+  margin: 5px;
+}
+
+.colorPalWrapper7:hover {
+  transform: scale(1.11);
+  border: solid rgb(10, 10, 10) 0.2px;
+}
+
+.colorPal7 {
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  justify-content: center;
+  margin: 5px;
+  background-color: rgb(165, 46, 159);
+}
+
+.colorPalWrapper8 {
+  border: solid rgb(10, 10, 10, 0.2) 0.1px;
+  width: 30px;
+  height: 30px;
+  border-radius: 30px;
+  display: flex;
+  margin: 5px;
+}
+
+.colorPalWrapper8:hover {
+  transform: scale(1.11);
+  border: solid rgb(10, 10, 10) 0.2px;
+}
+
+.colorPal8 {
+  width: 20px;
+  height: 20px;
+  border-radius: 20px;
+  justify-content: center;
+  margin: 5px;
+  background-color: rgb(5, 50, 82);
+}
